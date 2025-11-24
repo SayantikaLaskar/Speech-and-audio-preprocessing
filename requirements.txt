@@ -1,0 +1,14 @@
+accelerate>=0.26.0
+datasets>=2.15.0
+evaluate>=0.4.0
+librosa>=0.10.1
+numpy>=1.24.0
+pandas>=2.1.0
+requests>=2.31.0
+sentencepiece>=0.1.99
+soundfile>=0.12.1
+torch>=2.1.0
+torchaudio>=2.1.0
+transformers>=4.36.0
+tqdm>=4.66.0
+
